@@ -2,7 +2,7 @@
   "name": "test-react",
   "version": "0.1.0",
   "private": true,
-"homepage": "https://github.com/KateSlav7/test-react",
+  "homepage": "https://KateSlav7.github.io/test-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
