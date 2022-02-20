@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/KateSlav7/test-react/static/js/main.b098f8dd.js",
-    "index.html": "/KateSlav7/test-react/index.html",
-    "main.b098f8dd.js.map": "/KateSlav7/test-react/static/js/main.b098f8dd.js.map"
+    "main.js": "/test-react/static/js/main.b098f8dd.js",
+    "index.html": "/test-react/index.html",
+    "main.b098f8dd.js.map": "/test-react/static/js/main.b098f8dd.js.map"
   },
   "entrypoints": [
     "static/js/main.b098f8dd.js"
